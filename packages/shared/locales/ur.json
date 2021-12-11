@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} کے ایڈریسس کی تاریخ",
-            "currentBalance": "موجودہ بیلینس: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "ایک نوڈ شامل کریں",
@@ -788,7 +790,8 @@
         "searching": "تلاش ہو رہا ہے...",
         "closeFirefly": "فائر فلائی بند کریں",
         "generateAddress": "ایڈریس بنائیں",
-        "migrateAgain": "Migrate another index"
+        "migrateAgain": "Migrate another index",
+        "done": "Done"
     },
     "general": {
         "password": "پاس ورڈ",

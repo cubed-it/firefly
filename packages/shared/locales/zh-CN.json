@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} 地址历史记录",
-            "currentBalance": "当前余额: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "添加节点",
@@ -788,7 +790,8 @@
         "searching": "搜索中...",
         "closeFirefly": "关闭Firefly",
         "generateAddress": "生成地址",
-        "migrateAgain": "迁移另一个Ledger索引"
+        "migrateAgain": "迁移另一个Ledger索引",
+        "done": "Done"
     },
     "general": {
         "password": "密码",

@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} खाता पता इतिहास",
-            "currentBalance": "वर्तमान बैलेंस: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "नया नोड जोड़ें",
@@ -788,7 +790,8 @@
         "searching": "खोज रहे हैं...",
         "closeFirefly": "फायरफ्लाई बंद करे",
         "generateAddress": "नया पता उत्पन्न करें",
-        "migrateAgain": "एक और इंडेक्स माइग्रेट करें"
+        "migrateAgain": "एक और इंडेक्स माइग्रेट करें",
+        "done": "Done"
     },
     "general": {
         "password": "पासवर्ड",

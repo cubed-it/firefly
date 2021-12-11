@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} adreshistorio",
-            "currentBalance": "Aktuala bilanco: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Aldoni nodon",
@@ -788,7 +790,8 @@
         "searching": "Serĉante...",
         "closeFirefly": "Fermu Firefly",
         "generateAddress": "Generi adreson",
-        "migrateAgain": "Migrigu alian Indekson"
+        "migrateAgain": "Migrigu alian Indekson",
+        "done": "Done"
     },
     "general": {
         "password": "Pasvorto",

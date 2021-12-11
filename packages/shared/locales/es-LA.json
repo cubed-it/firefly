@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} historial de direcciones",
-            "currentBalance": "Saldo actual: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Añadir un nodo",
@@ -788,7 +790,8 @@
         "searching": "Buscando...",
         "closeFirefly": "Cerrar Firefly",
         "generateAddress": "Generar una address",
-        "migrateAgain": "Migrar otro índice"
+        "migrateAgain": "Migrar otro índice",
+        "done": "Done"
     },
     "general": {
         "password": "Contraseña",

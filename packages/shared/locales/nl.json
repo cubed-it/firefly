@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} adresgeschiedenis",
-            "currentBalance": "Huidig saldo: {balance}"
+            "currentBalance": "Saldo: {balance}",
+            "internal": "Intern adres",
+            "external": "Ontvangstadres"
         },
         "node": {
             "titleAdd": "Node toevoegen",
@@ -788,7 +790,8 @@
         "searching": "Zoeken...",
         "closeFirefly": "Sluit Firefly",
         "generateAddress": "Genereer een adres",
-        "migrateAgain": "Migreer een andere index"
+        "migrateAgain": "Migreer een andere index",
+        "done": "Voltooid"
     },
     "general": {
         "password": "Wachtwoord",

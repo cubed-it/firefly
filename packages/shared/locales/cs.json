@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} historie adres",
-            "currentBalance": "Aktuální zůstatek: {balance}"
+            "currentBalance": "Zůstatek: {balance}",
+            "internal": "Interní adresa",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Přidat uzel",
@@ -788,7 +790,8 @@
         "searching": "Hledání...",
         "closeFirefly": "Zavřít Firefly",
         "generateAddress": "Vygenerovat adresu",
-        "migrateAgain": "Migrovat jiný index"
+        "migrateAgain": "Migrovat jiný index",
+        "done": "Done"
     },
     "general": {
         "password": "Heslo",

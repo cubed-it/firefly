@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} adresshistorik",
-            "currentBalance": "Nuvarande saldo: {balance}"
+            "currentBalance": "Saldo: {balance}",
+            "internal": "Intern adress",
+            "external": "Insättningsadress"
         },
         "node": {
             "titleAdd": "Lägg till nod",
@@ -788,7 +790,8 @@
         "searching": "Söker...",
         "closeFirefly": "Stäng Firefly",
         "generateAddress": "Generera adress",
-        "migrateAgain": "Migrera ett annat index"
+        "migrateAgain": "Migrera ett annat index",
+        "done": "Klar"
     },
     "general": {
         "password": "Lösenord",

@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "Історія адрес: {name}",
-            "currentBalance": "Поточний баланс: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Додати вузол",
@@ -788,7 +790,8 @@
         "searching": "Пошук...",
         "closeFirefly": "Закрити Firefly",
         "generateAddress": "Створити адресу",
-        "migrateAgain": "Перенести інший індекс"
+        "migrateAgain": "Перенести інший індекс",
+        "done": "Done"
     },
     "general": {
         "password": "Пароль",

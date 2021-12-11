@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} история на адрес",
-            "currentBalance": "Наличност: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Добави Node сървър",
@@ -788,7 +790,8 @@
         "searching": "Търсене...",
         "closeFirefly": "Затвори Firefly",
         "generateAddress": "Генериране на адрес",
-        "migrateAgain": "Мигриране на друг индекс"
+        "migrateAgain": "Мигриране на друг индекс",
+        "done": "Done"
     },
     "general": {
         "password": "Парола",

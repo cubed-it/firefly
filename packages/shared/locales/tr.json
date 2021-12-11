@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} Adres geçmişi",
-            "currentBalance": "Mevcut bakiye: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Bir node ekle",
@@ -788,7 +790,8 @@
         "searching": "Aranıyor...",
         "closeFirefly": "Firefly'ı Kapat",
         "generateAddress": "Adres oluştur",
-        "migrateAgain": "Başka bir indeks taşı"
+        "migrateAgain": "Başka bir indeks taşı",
+        "done": "Done"
     },
     "general": {
         "password": "Parola",

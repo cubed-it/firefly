@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "عرض سجل عمليات العنوان {name}",
-            "currentBalance": "الرصيد الحالي: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "إضافة عقدة node",
@@ -788,7 +790,8 @@
         "searching": "جاري البحث...",
         "closeFirefly": "إغلاق الفايرفلاي",
         "generateAddress": "Generate address",
-        "migrateAgain": "Migrate another index"
+        "migrateAgain": "Migrate another index",
+        "done": "Done"
     },
     "general": {
         "password": "كلمة المرور",

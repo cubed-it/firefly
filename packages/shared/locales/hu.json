@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} korábban használt címei",
-            "currentBalance": "Aktuális egyenleg: {balance}"
+            "currentBalance": "Egyenleg: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Csomópont hozzáadása",
@@ -788,7 +790,8 @@
         "searching": "Keresés...",
         "closeFirefly": "Firefly bezárása",
         "generateAddress": "Új cím létrehozása",
-        "migrateAgain": "Másik számlasorszám migrálása"
+        "migrateAgain": "Másik számlasorszám migrálása",
+        "done": "Kész"
     },
     "general": {
         "password": "Jelszó",

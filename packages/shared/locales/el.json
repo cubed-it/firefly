@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "Ιστορικό διευθύνσεων {name}",
-            "currentBalance": "Τρέχον υπόλοιπο: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Προσθήκη κόμβου",
@@ -788,7 +790,8 @@
         "searching": "Αναζήτηση...",
         "closeFirefly": "Κλείσιμο Του Firefly",
         "generateAddress": "Δημιουργία διεύθυνσης",
-        "migrateAgain": "Μετεγκατάσταση άλλου δείκτη"
+        "migrateAgain": "Μετεγκατάσταση άλλου δείκτη",
+        "done": "Done"
     },
     "general": {
         "password": "Κωδικός πρόσβασης",

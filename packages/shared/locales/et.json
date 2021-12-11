@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} addressi ajalugu",
-            "currentBalance": "Hetke kontojääk: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Lisa sõlm",
@@ -788,7 +790,8 @@
         "searching": "Otsin...",
         "closeFirefly": "Sulge Firefly",
         "generateAddress": "Loo aadress",
-        "migrateAgain": "Migrate another index"
+        "migrateAgain": "Migrate another index",
+        "done": "Done"
     },
     "general": {
         "password": "Salasõna",

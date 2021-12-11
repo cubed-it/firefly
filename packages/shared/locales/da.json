@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} adresse historik",
-            "currentBalance": "Nuværende saldo: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Tilføj en node",
@@ -788,7 +790,8 @@
         "searching": "Søger...",
         "closeFirefly": "Luk Firefly",
         "generateAddress": "Generér adresse",
-        "migrateAgain": "Migrate another index"
+        "migrateAgain": "Migrate another index",
+        "done": "Done"
     },
     "general": {
         "password": "Adgangskode",

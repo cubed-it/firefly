@@ -538,7 +538,9 @@
         },
         "addressHistory": {
             "title": "{name} dîroka navnîşanê",
-            "currentBalance": "Mayîna niha: {balance}"
+            "currentBalance": "Balance: {balance}",
+            "internal": "Internal Address",
+            "external": "Deposit Address"
         },
         "node": {
             "titleAdd": "Girêkê zêde bike",
@@ -788,7 +790,8 @@
         "searching": "Lêdigere...",
         "closeFirefly": "Firefly bigire",
         "generateAddress": "Navnîşanekê çêke",
-        "migrateAgain": "Migrate another index"
+        "migrateAgain": "Migrate another index",
+        "done": "Done"
     },
     "general": {
         "password": "Şîfre",
