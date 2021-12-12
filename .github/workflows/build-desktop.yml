@@ -90,9 +90,6 @@ jobs:
 
     - name: Build Electron app (Windows)
       run: yarn compile:win
-      env:
-        CSC_LINK: ${{ secrets.WIN_CERT_BASE64 }}
-        CSC_KEY_PASSWORD: ${{ secrets.WIN_CERT_PASSWORD }}
       working-directory: packages/desktop
       if: matrix.os == 'windows-2019'
 
